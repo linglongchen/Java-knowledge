@@ -6,18 +6,18 @@
  
  ## 集合
  - Collection
-  - List
-   - ArrayList
-   - LinkedList
-   - Vector
-  - Set
-   - HashSet
-   -TreeSet
+   - List
+    - ArrayList
+    - LinkedList
+    - Vector
+   - Set
+    - HashSet
+    -TreeSet
  - Map
-  - TreeMap
-  - HashTable
-  - HashMap
-  - ConcurrentHashMap
+   - TreeMap
+   - HashTable
+   - HashMap
+   - ConcurrentHashMap
   
 ## 数据结构
  - 数组
