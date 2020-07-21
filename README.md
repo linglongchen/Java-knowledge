@@ -156,8 +156,11 @@
       - ThreadLocal
       
     
+    
+    
 
+ ![Image text](https://github.com/linglongchen/Java-knowledge/blob/master/image/%E5%90%8E%E7%AB%AF%E7%9F%A5%E8%AF%86%E6%9E%B6%E6%9E%84.png)
 
+### 自己梳理的Java后端知识架构，后续会慢慢填补上对应的知识点，主要是为了应对以后的面试，也希望能给需要的人带来帮助，觉得可以的话希望给一个start。
+### 自己整理的可能不全面，所以希望也能给予issue，万分感谢。
 
-
-  ![Image text](https://github.com/linglongchen/Java-knowledge/blob/master/image/%E5%90%8E%E7%AB%AF%E7%9F%A5%E8%AF%86%E6%9E%B6%E6%9E%84.png)
