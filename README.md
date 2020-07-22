@@ -20,7 +20,6 @@
     - HashTable
     - HashMap：[从源码分析HashMap](https://mp.weixin.qq.com/s?__biz=MzI5NTk0MDkwNA==&mid=2247483654&idx=1&sn=81f376bd85b103bf2493782ba08ce142&chksm=ec4aa741db3d2e572d04a2558d103be075e2f14cb039920857f17b0326ac7ff8841a794c63df&token=274586212&lang=zh_CN#rd)
     - ConcurrentHashMap：[ConcurrentHashMap的实现原理](https://blog.csdn.net/qq_40126996/article/details/105280871)
-  
 ## 数据结构
  - 数组
  - 栈
@@ -32,9 +31,7 @@
    - 平衡二叉树
    - 红黑树
    - B-Tree
-   - B+Tree
-   
-   
+   - B+Tree 
 ## 算法排序
  - 冒泡排序
  - 选择排序
@@ -156,8 +153,6 @@
         - 单端非阻塞（Queue）
         - 双端非阻塞（Deque）
       - ThreadLocal：[从源码分析ThreadLocal的实现原理](https://blog.csdn.net/qq_40126996/article/details/107345176)
-      
-    
 ## 分布式组件
    - zookeeper
    - Dubbo：[看完这篇应该就知道Dubbo是干什么的了](https://blog.csdn.net/qq_40126996/article/details/107380042)
@@ -208,16 +203,13 @@
        - 网络传输层（Transport）
      - 通信框架
        - Netty
-    
 ## 调优
    - JVM调优
    - 事务优化
    - 数据库优化
    - 内存溢出排查
    - I/O排查
-   - 堆内存排查
-      
-      
+   - 堆内存排查    
  ## JVM：[来自汤姆的JVM知识总结](https://blog.csdn.net/qq_40126996/article/details/106029043)
    - 类加载
      - 类加载过程
@@ -226,20 +218,17 @@
        - 准备
        - 解析
        - 初始化
-
      - 双亲委派
        - Bootstrap ClassLoader
        - Ext ClassLoader
        - Application ClassLoader
        - 过程
-
    - 内存区域
      - 堆
      - 方法区
      - 本地方法栈
      - 虚拟机栈
      - 程序计数器
-
    - 内存分配策略
      - 年轻代：执行Minor GC
        - 一个Eden区
@@ -250,7 +239,6 @@
        - 大对象会直接进入老年代
        - 长期存活的会进入老年代
        - 年龄超过阈值的会进入老年代
-
    - 判断回收对象算法
      - 可达性分析法
      - 引用计数法
@@ -259,21 +247,17 @@
        - 弱引用
        - 软引用
        - 虚引用
-
    - 垃圾回收算法
      - 标记-清除算法
      - 复制算法
      - 标记-整理算法
-
    - 垃圾回收器
      - 新生代
      - 老年代
        - Serial Old
        - Parallel Old
        - CMS
-       - G1
-          
-          
+       - G1          
  ## 设计模式
    - 单例模式
      - 懒汉式
@@ -284,13 +268,10 @@
      - 动态代理
        - jdk动态代理
        - cglib动态代理
-
  ## 计算机网络：[计算机网络知识点概况](https://blog.csdn.net/qq_40126996/article/details/106223672)
    - 三次握手
    - 四次挥手
-   - TCP/IP五层模型
-      
-      
+   - TCP/IP五层模型 
  ## 中间件
    - Redis：[汤姆关于Redis的学习](https://blog.csdn.net/qq_40126996/article/details/106008490)
      - 数据结构：[Redis的底层如何实现](https://blog.csdn.net/qq_40126996/article/details/107249687)
@@ -307,13 +288,10 @@
      - 分布式锁
      - 高可用
        - 集群
-
        - 持久化
          - AOF
          - RDB
-
        - 哨兵
-
    - RabbitMQ
      - 高可用
      - 模式：[一起了解RabbitMQ的各种模式](https://blog.csdn.net/qq_40126996/article/details/104348576)
@@ -323,7 +301,6 @@
        - 路由模式
        - 主题模式
    - Kafka
-      
  ## 网络通信
    - Netty
      - 组件
