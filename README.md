@@ -18,7 +18,7 @@
     - TreeMap
     - HashTable
     - HashMap：[从源码分析HashMap](https://mp.weixin.qq.com/s?__biz=MzI5NTk0MDkwNA==&mid=2247483654&idx=1&sn=81f376bd85b103bf2493782ba08ce142&chksm=ec4aa741db3d2e572d04a2558d103be075e2f14cb039920857f17b0326ac7ff8841a794c63df&token=274586212&lang=zh_CN#rd)
-    - ConcurrentHashMap
+    - ConcurrentHashMap：[ConcurrentHashMap的实现原理](https://blog.csdn.net/qq_40126996/article/details/105280871)
   
 ## 数据结构
  - 数组
@@ -106,8 +106,8 @@
       - 自旋锁
       - 可重入锁
     - 并发关键字
-      - volatile
-      - synchronized
+      - volatile：[分析volatile的实现过程](https://blog.csdn.net/qq_40126996/article/details/106365971)，[volatile实现过程2](https://blog.csdn.net/qq_40126996/article/details/106201978)
+      - synchronized：[分析synchronized的实现过程](https://blog.csdn.net/qq_40126996/article/details/106365971)，[synchronized实现过程2](https://blog.csdn.net/qq_40126996/article/details/106201978)
       - final
       - Atomic：[从源码分析Atomic](https://blog.csdn.net/qq_40126996/article/details/107169176)
     - 并发理论
@@ -147,7 +147,7 @@
       - Condition机制
       - Lock与Synchronized
     - 并发容器
-      - ConcurrentHashMap
+      - ConcurrentHashMap：[ConcurrentHashMap的实现原理](https://blog.csdn.net/qq_40126996/article/details/105280871)
       - ConcurrentSkipListMap
       - Queue
         - 单端阻塞（BlockingQueue）
