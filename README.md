@@ -1,5 +1,8 @@
 # Java-knowledge
 
+#### 入行一年梳理的Java后端知识架构，整理的可能不够详细，后续学到了再慢慢增加。主要是为了应对以后的面试，也希望能给需要的人带来帮助，觉得可以的话希望给一个start。
+#### 自己整理的可能不全面，所以希望也能给予issue，万分感谢。
+### 共同学习，共同进步！
 
 ## Spring
  - IOC：[Spring中IOC知识点介绍](https://mp.weixin.qq.com/s?__biz=MzI5NTk0MDkwNA==&mid=2247483703&idx=1&sn=c409488c95870d367162923075fed2cc&chksm=ec4aa770db3d2e6652c0c77cdf26a37dc6ea2a2486020ab9b632ec82f4bc0fa2c40290ffa396&scene=126&sessionid=1595328353&key=de438a290b06e75a5e8ee474df644893b6e0dcb29e2b34dc49617ea5d5adcbbf6af01f91a947036fe9805bb6b1ffb1a8d31982f7bc4f6f404231a20db9d0d29bb8aa2114159a01452bba955d137607cf&ascene=1&uin=MzU1MjE3NTAy&devicetype=Windows+10+x64&version=62090529&lang=zh_CN&exportkey=AeOFXcRKpXW5Blt9JlAJT2s%3D&pass_ticket=%2FJDJX3%2FxUFIRv8nz2s3qp6eYjByCRxZIquJcbqP%2Bv1Qq3X92dpF8p6Rl6QM1QGL4)
@@ -312,6 +315,4 @@
 
  ![Image text](https://github.com/linglongchen/Java-knowledge/blob/master/image/%E5%90%8E%E7%AB%AF%E7%9F%A5%E8%AF%86%E6%9E%B6%E6%9E%84.png)
 
-### 自己梳理的Java后端知识架构，后续会慢慢填补上对应的知识点，主要是为了应对以后的面试，也希望能给需要的人带来帮助，觉得可以的话希望给一个start。
-### 自己整理的可能不全面，所以希望也能给予issue，万分感谢。
 
