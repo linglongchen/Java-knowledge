@@ -4,6 +4,7 @@
 ## Spring
  - IOC：[Spring中IOC知识点介绍](https://mp.weixin.qq.com/s?__biz=MzI5NTk0MDkwNA==&mid=2247483703&idx=1&sn=c409488c95870d367162923075fed2cc&chksm=ec4aa770db3d2e6652c0c77cdf26a37dc6ea2a2486020ab9b632ec82f4bc0fa2c40290ffa396&scene=126&sessionid=1595328353&key=de438a290b06e75a5e8ee474df644893b6e0dcb29e2b34dc49617ea5d5adcbbf6af01f91a947036fe9805bb6b1ffb1a8d31982f7bc4f6f404231a20db9d0d29bb8aa2114159a01452bba955d137607cf&ascene=1&uin=MzU1MjE3NTAy&devicetype=Windows+10+x64&version=62090529&lang=zh_CN&exportkey=AeOFXcRKpXW5Blt9JlAJT2s%3D&pass_ticket=%2FJDJX3%2FxUFIRv8nz2s3qp6eYjByCRxZIquJcbqP%2Bv1Qq3X92dpF8p6Rl6QM1QGL4)
  - AOP：[Spring中AOP知识点介绍](https://mp.weixin.qq.com/s?__biz=MzI5NTk0MDkwNA==&mid=2247483666&idx=1&sn=488079b58f2387ee45b18f451eddb648&chksm=ec4aa755db3d2e43531e9a2ba4cc0ce64344c7bf9843dcea1613694db2fdaee4358b36f16b9c&token=200295296&lang=zh_CN#rd)
+ </details>
  
 ## 集合：[Java集合分析](https://blog.csdn.net/qq_40126996/article/details/106063070)
  - Collection
@@ -157,8 +158,179 @@
       - ThreadLocal：[从源码分析ThreadLocal的实现原理](https://blog.csdn.net/qq_40126996/article/details/107345176)
       
     
+## 分布式组件
+   - zookeeper
+   - Dubbo
+     - 核心功能
+       - Remoting
+       - Cluster
+       - Registry
+     - 核心组件
+       - Provider
+       - Consumer
+       - Registry
+       - Monitor
+       - Container
+     - 协议
+       - dubbo
+       - rmi
+       - webservice
+       - http
+       - hessian
+       - redis
+       - memcache
+     - 注册中心
+       - Zookeeper
+       - Multicast
+       - Redis
+       - Simple
+     - 注册与发现流程
+     - 负载均衡策略
+       - RoundRobin LoadBalance（轮询选取提供者策略）
+       - LeastActive LoadBalance（最少活跃调用策略）
+       - ConstantHash LoadBalance（一致性hash策略）
+     - 集群容错方案
+       - Failover Cluster（失败自动切换模式）
+       - Failfast Cluster（快速失败模式）
+       - Failsafe Cluster（失败安全模式）
+       - Failback Cluster（失败自动恢复模式）
+       - Forking Cluster（并行模式）
+       - Broadcast Cluster（广播模式）
+     - 架构
+       - 服务接口层（Service）
+       - 配置层（Config）
+       - 服务代理层（Proxy）
+       - 服务注册层（Registry）
+       - 集群层（Cluster）
+       - 监控层（Monitor）
+       - 远程调用层（Protocol）
+       - 信息交换层（Exchange）
+       - 网络传输层（Transport）
+     - 通信框架
     
-    
+## 调优
+   - JVM调优
+   - 事务优化
+   - 数据库优化
+   - 内存溢出排查
+   - I/O排查
+   - 堆内存排查
+      
+      
+ ## JVM
+   - 类加载
+     - 类加载过程
+       - 加载
+       - 检验
+       - 准备
+       - 解析
+       - 初始化
+
+     - 双亲委派
+       - Bootstrap ClassLoader
+       - Ext ClassLoader
+       - Application ClassLoader
+       - 过程
+
+   - 内存区域
+     - 堆
+     - 方法区
+     - 本地方法栈
+     - 虚拟机栈
+     - 程序计数器
+
+   - 内存分配策略
+     - 年轻代：执行Minor GC
+       - 一个Eden区
+       - 两个survivor区
+         - From survivor
+         - To survivor
+     - 老年代：执行Full GC
+       - 大对象会直接进入老年代
+       - 长期存活的会进入老年代
+       - 年龄超过阈值的会进入老年代
+
+   - 判断回收对象算法
+     - 可达性分析法
+     - 引用计数法
+     - 引用类型
+       - 强引用
+       - 弱引用
+       - 软引用
+       - 虚引用
+
+   - 垃圾回收算法
+     - 标记-清除算法
+     - 复制算法
+     - 标记-整理算法
+
+   - 垃圾回收器
+     - 新生代
+     - 老年代
+       - Serial Old
+       - Parallel Old
+       - CMS
+       - G1
+          
+          
+ ## 设计模式
+   - 单例模式
+     - 懒汉式
+     - 饿汉式
+   - 工厂模式
+   - 代理模式
+     - 静态代理
+     - 动态代理
+       - jdk动态代理
+       - cglib动态代理
+
+ ## 计算机网络
+   - 三次握手
+   - 四次挥手
+   - TCP/IP五层模型
+      
+      
+ ## 中间件
+   - Redis
+     - 数据结构
+       - String
+       - Hash
+       - List
+       - Set
+       - ZSet
+     - 缓存一致性
+     - 缓存三大问题
+       - 缓存雪崩
+       - 缓存击穿
+       - 缓存穿透
+     - 分布式锁
+     - 高可用
+       - 集群
+
+       - 持久化
+         - AOF
+         - RDB
+
+       - 哨兵
+
+   - RabbitMQ
+     - 高可用
+     - 模式
+       - 队列模式
+       - 工作模式
+       - 订阅者模式
+       - 路由模式
+       - 主题模式
+   - Kafka
+      
+ ## 网络通信
+   - Netty
+     - 组件
+       - Selector
+       - Channel
+       - Buffer
+ ## 分库分表
+ ## 操作系统
 
  ![Image text](https://github.com/linglongchen/Java-knowledge/blob/master/image/%E5%90%8E%E7%AB%AF%E7%9F%A5%E8%AF%86%E6%9E%B6%E6%9E%84.png)
 
