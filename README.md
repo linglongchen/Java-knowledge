@@ -4,7 +4,7 @@
 ## Spring
  - IOC：[Spring中IOC知识点介绍](https://mp.weixin.qq.com/s?__biz=MzI5NTk0MDkwNA==&mid=2247483703&idx=1&sn=c409488c95870d367162923075fed2cc&chksm=ec4aa770db3d2e6652c0c77cdf26a37dc6ea2a2486020ab9b632ec82f4bc0fa2c40290ffa396&scene=126&sessionid=1595328353&key=de438a290b06e75a5e8ee474df644893b6e0dcb29e2b34dc49617ea5d5adcbbf6af01f91a947036fe9805bb6b1ffb1a8d31982f7bc4f6f404231a20db9d0d29bb8aa2114159a01452bba955d137607cf&ascene=1&uin=MzU1MjE3NTAy&devicetype=Windows+10+x64&version=62090529&lang=zh_CN&exportkey=AeOFXcRKpXW5Blt9JlAJT2s%3D&pass_ticket=%2FJDJX3%2FxUFIRv8nz2s3qp6eYjByCRxZIquJcbqP%2Bv1Qq3X92dpF8p6Rl6QM1QGL4)
  - AOP：[Spring中AOP知识点介绍](https://mp.weixin.qq.com/s?__biz=MzI5NTk0MDkwNA==&mid=2247483666&idx=1&sn=488079b58f2387ee45b18f451eddb648&chksm=ec4aa755db3d2e43531e9a2ba4cc0ce64344c7bf9843dcea1613694db2fdaee4358b36f16b9c&token=200295296&lang=zh_CN#rd)
- </details>
+ - 循环依赖
  
 ## 集合：[Java集合分析](https://blog.csdn.net/qq_40126996/article/details/106063070)
  - Collection
@@ -160,12 +160,12 @@
     
 ## 分布式组件
    - zookeeper
-   - Dubbo
+   - Dubbo：[看完这篇应该就知道Dubbo是干什么的了](https://blog.csdn.net/qq_40126996/article/details/107380042)
      - 核心功能
        - Remoting
        - Cluster
        - Registry
-     - 核心组件
+     - 核心组件：[Dubbo超时功能在源码中如何实现](https://blog.csdn.net/qq_40126996/article/details/106397934)
        - Provider
        - Consumer
        - Registry
@@ -196,7 +196,7 @@
        - Failback Cluster（失败自动恢复模式）
        - Forking Cluster（并行模式）
        - Broadcast Cluster（广播模式）
-     - 架构
+     - 架构：[从源码分析EnableDubbo注解的作用](https://blog.csdn.net/qq_40126996/article/details/105919675)
        - 服务接口层（Service）
        - 配置层（Config）
        - 服务代理层（Proxy）
@@ -207,6 +207,7 @@
        - 信息交换层（Exchange）
        - 网络传输层（Transport）
      - 通信框架
+       - Netty
     
 ## 调优
    - JVM调优
@@ -217,7 +218,7 @@
    - 堆内存排查
       
       
- ## JVM
+ ## JVM：[来自汤姆的JVM知识总结](https://blog.csdn.net/qq_40126996/article/details/106029043)
    - 类加载
      - 类加载过程
        - 加载
@@ -284,15 +285,15 @@
        - jdk动态代理
        - cglib动态代理
 
- ## 计算机网络
+ ## 计算机网络：[计算机网络知识点概况](https://blog.csdn.net/qq_40126996/article/details/106223672)
    - 三次握手
    - 四次挥手
    - TCP/IP五层模型
       
       
  ## 中间件
-   - Redis
-     - 数据结构
+   - Redis：[汤姆关于Redis的学习](https://blog.csdn.net/qq_40126996/article/details/106008490)
+     - 数据结构：[Redis的底层如何实现](https://blog.csdn.net/qq_40126996/article/details/107249687)
        - String
        - Hash
        - List
@@ -315,7 +316,7 @@
 
    - RabbitMQ
      - 高可用
-     - 模式
+     - 模式：[一起了解RabbitMQ的各种模式](https://blog.csdn.net/qq_40126996/article/details/104348576)
        - 队列模式
        - 工作模式
        - 订阅者模式
