@@ -278,7 +278,7 @@
  ## 中间件
    - Redis：[汤姆关于Redis的学习](https://blog.csdn.net/qq_40126996/article/details/106008490)
      - 数据结构：[Redis的底层如何实现](https://blog.csdn.net/qq_40126996/article/details/107249687)
-       - String
+       - String：[Redis之整数集合底层实现](https://www.yuque.com/chentangmu/ffak1c/boaf6z)
        - Hash
        - List
        - Set
