@@ -157,7 +157,7 @@
         - 双端非阻塞（Deque）
       - ThreadLocal：[从源码分析ThreadLocal的实现原理](https://blog.csdn.net/qq_40126996/article/details/107345176)
 ## 分布式组件
-   - zookeeper
+   - zookeeper：[zookeeper的基本知识](https://www.yuque.com/chentangmu/qxrf1r/hoqnve)
    - Dubbo：[看完这篇应该就知道Dubbo是干什么的了](https://blog.csdn.net/qq_40126996/article/details/107380042)
      - 核心功能
        - Remoting
@@ -282,7 +282,7 @@
        - Hash
        - List
        - Set
-       - ZSet
+       - ZSet：[Redis跳跃表的底层实现](https://mp.weixin.qq.com/s/9MfeyQ5t-053y6RjsiI0mQ)
      - 缓存一致性
      - 缓存三大问题
        - 缓存雪崩
@@ -293,7 +293,7 @@
        - 集群
        - 持久化
          - AOF
-         - RDB
+         - RDB：[Redis的RDB持久化](https://www.yuque.com/chentangmu/ffak1c/ewmtl5)
        - 哨兵
    - RabbitMQ
      - 高可用
