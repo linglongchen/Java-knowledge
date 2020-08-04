@@ -292,8 +292,8 @@
      - 高可用
        - 集群
        - 持久化
-         - AOF
-         - RDB：[Redis的RDB持久化](https://www.yuque.com/chentangmu/ffak1c/ewmtl5)
+         - AOF[AOF持久化底层实现原理2](https://mp.weixin.qq.com/s?__biz=MzI5NTk0MDkwNA==&mid=2247483786&idx=1&sn=fa09eb9ac5f02442f1211c0ff10cf154&chksm=ec4aa7cddb3d2edba428ce5e207e86f0941135d5009859ee469666506155af07936774f01040&scene=126&sessionid=1596550285&key=80efbdacc232da715cf3fdb91b782f1209a6ec68bc08e86e222213b9d2db8c29479fa993a199b327b965dcedd2fe2eeb81215c8e038c24acf6d4cdd2759e39e86fa023e6fb9e3a79c1f8d421336600b7&ascene=1&uin=MzU1MjE3NTAy&devicetype=Windows+10+x64&version=62090529&lang=zh_CN&exportkey=AWDDS9mkfLTbpvZt8VS5VRI%3D&pass_ticket=q7BwXqHZCbXKl%2BSWBLT9qNF7nhcOVYyPt5GteIPRS1SbxV606gG7TCvpcV1Dwhb8),[AOF持久化底层实现原理1](https://mp.weixin.qq.com/s?__biz=MzI5NTk0MDkwNA==&mid=2247483781&idx=1&sn=69809cf7885f4ca01ae0d963b30fe460&chksm=ec4aa7c2db3d2ed4d2a6c54221608bd4563d0640ad1c2106ab605afb5b505d7eb4ba6e59b8a3&scene=126&sessionid=1596550285&key=f4e53e261e827f633d986f8198da41369847ebc54fa1b401b273310e65878e0c90eb7e5685902bce1a44de4e764fcbac5b0875476d72668cd89f89dbc4d9a0126be57fba4843baf04ab142d4d7a28ffd&ascene=1&uin=MzU1MjE3NTAy&devicetype=Windows+10+x64&version=62090529&lang=zh_CN&exportkey=Af1FKzEB1czooWp6ORZ0GFQ%3D&pass_ticket=q7BwXqHZCbXKl%2BSWBLT9qNF7nhcOVYyPt5GteIPRS1SbxV606gG7TCvpcV1Dwhb8)
+         - RDB：[Redis的RDB持久化底层实现原理1](https://www.yuque.com/chentangmu/ffak1c/ewmtl5),[RDB持久化底层实现原理2](https://mp.weixin.qq.com/s?__biz=MzI5NTk0MDkwNA==&mid=2247483777&idx=1&sn=cb9433024110519ae51dfbdd6c5f059d&chksm=ec4aa7c6db3d2ed09d3351226c16cd7b0f9cd7d4947fb0c7d5ffb29dffb7097c49cba4579d3b&scene=126&sessionid=1596550285&key=de438a290b06e75a48a56f8a4d2abdd0dbcf950696533addc673cb50639f58bc581dda8ee27bdec2e53d36d29019695bdea6fac99278aa680ae92e5d7182776d992c81aa5ab0779301d3074a58ed51f2&ascene=1&uin=MzU1MjE3NTAy&devicetype=Windows+10+x64&version=62090529&lang=zh_CN&exportkey=ASawvmTloVMm4cKOLUssfMA%3D&pass_ticket=q7BwXqHZCbXKl%2BSWBLT9qNF7nhcOVYyPt5GteIPRS1SbxV606gG7TCvpcV1Dwhb8)
        - 哨兵
    - RabbitMQ
      - 高可用
