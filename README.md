@@ -7,19 +7,19 @@
  共同学习，共同进步！
 
 
-## Spring框架
+### Spring框架
  - [Spring中IOC知识点介绍](https://mp.weixin.qq.com/s?__biz=MzI5NTk0MDkwNA==&mid=2247483703&idx=1&sn=c409488c95870d367162923075fed2cc&chksm=ec4aa770db3d2e6652c0c77cdf26a37dc6ea2a2486020ab9b632ec82f4bc0fa2c40290ffa396&scene=126&sessionid=1595328353&key=de438a290b06e75a5e8ee474df644893b6e0dcb29e2b34dc49617ea5d5adcbbf6af01f91a947036fe9805bb6b1ffb1a8d31982f7bc4f6f404231a20db9d0d29bb8aa2114159a01452bba955d137607cf&ascene=1&uin=MzU1MjE3NTAy&devicetype=Windows+10+x64&version=62090529&lang=zh_CN&exportkey=AeOFXcRKpXW5Blt9JlAJT2s%3D&pass_ticket=%2FJDJX3%2FxUFIRv8nz2s3qp6eYjByCRxZIquJcbqP%2Bv1Qq3X92dpF8p6Rl6QM1QGL4)
  - [Spring中AOP知识点介绍](https://mp.weixin.qq.com/s?__biz=MzI5NTk0MDkwNA==&mid=2247483666&idx=1&sn=488079b58f2387ee45b18f451eddb648&chksm=ec4aa755db3d2e43531e9a2ba4cc0ce64344c7bf9843dcea1613694db2fdaee4358b36f16b9c&token=200295296&lang=zh_CN#rd)
  - [从源码让你明白Spring如何解决循环依赖](https://blog.csdn.net/qq_40126996/article/details/107520514)
  
-## 集合：
+### 集合：
  - [Java集合分析](https://blog.csdn.net/qq_40126996/article/details/106063070)
  - [从源码分析HashMap](https://mp.weixin.qq.com/s?__biz=MzI5NTk0MDkwNA==&mid=2247483654&idx=1&sn=81f376bd85b103bf2493782ba08ce142&chksm=ec4aa741db3d2e572d04a2558d103be075e2f14cb039920857f17b0326ac7ff8841a794c63df&token=274586212&lang=zh_CN#rd)
  - [ConcurrentHashMap的实现原理](https://blog.csdn.net/qq_40126996/article/details/105280871)
-## 数据结构
+### 数据结构
  - [二叉树、红黑树、B+树总结一](https://blog.csdn.net/qq_40126996/article/details/105318125)
  - [二叉树、红黑树、B+树总结二](https://blog.csdn.net/qq_40126996/article/details/105326814)
-## 算法排序
+### 算法排序
  - 冒泡排序
  - 选择排序
  - 插入排序
@@ -29,9 +29,9 @@
  - 桶排序
  - 计数排序
  - 基数排序
-## MySQL：
+### MySQL：
   - [MySQL知识点分析](https://blog.csdn.net/qq_40126996/article/details/106129661)
-## 并发编程
+### 并发编程
   - [并发编程基础知识汇总一](https://blog.csdn.net/qq_40126996/article/details/106044854)
   - [并发编程基础知识汇总二](https://blog.csdn.net/qq_40126996/article/details/106365971)
   - [锁类型分析](https://blog.csdn.net/qq_40126996/article/details/106462839)
@@ -50,25 +50,21 @@
   - [ReentrantReadWriteLock的实现原理](https://blog.csdn.net/qq_40126996/article/details/106819495)
   - [ConcurrentHashMap的实现原理](https://blog.csdn.net/qq_40126996/article/details/105280871)
   - [从源码分析ThreadLocal的实现原理](https://mp.weixin.qq.com/s?__biz=MzI5NTk0MDkwNA==&mid=2247483808&idx=1&sn=5ed254f8965a7144000a4e2562f59913&chksm=ec4aa7e7db3d2ef14cba18744367bc92edbd085cf1bc6213cbc66ea8f2bbf52e7345d5733c6d&scene=126&sessionid=1597987967&key=de438a290b06e75a070edf8cc52a0095a1794eac17027b9c3f8e548bbce8fdf285bf827c2876c28433a41ebf7d1a16784f66a4eda2cb1ca3897dd8f41e68e597a61bbdd23ea4de64696309461f011e86ecd709ed574e985b166544fec82f9060d229e416e4a23eed62d710572b3fab28198f2657cd19f27e383ca407129d5841&ascene=1&uin=MzU1MjE3NTAy&devicetype=Windows+10+x64&version=62090529&lang=zh_CN&exportkey=AdV2oI2ZM%2BvL2FdD%2BJJS1ic%3D&pass_ticket=RP9J1IEXoAQni4Q4ZAkMBsH%2FHHVmMKVZ6OwtT45KMv%2FuSk14nYqZKYmYnpdQjOun)
-## 分布式组件
-  -zookeeper：
-      - [zookeeper的基本知识](https://www.yuque.com/chentangmu/qxrf1r/hoqnve)
-      - [分布式系统中的CAP理论](https://mp.weixin.qq.com/s?__biz=MzI5NTk0MDkwNA==&mid=2247483907&idx=1&sn=13221235bcd83658e4e8a77af5ab5b28&chksm=ec4aa444db3d2d5232aaa03dc767b1ce740cef12e5d8296c5462c7aaf976d9251f67f5687ccd&scene=126&sessionid=1597987955&key=644b115416bee241adae9bd07ffb7d94f9acee21de1a3e24fbcfd265f185c582cb94c101cb32365ac31b64a5c7e0324c7958140b8254eb385f259029bbc410646f1788c374f251ef2a462de04123f22c4d2ef9cd0a645e475ae565b755fe614551475bf9518ae83b92ec6eeeb82ca3ab157e8fa4a957d7bd92c81bf7398dd99c&ascene=1&uin=MzU1MjE3NTAy&devicetype=Windows+10+x64&version=62090529&lang=zh_CN&exportkey=AcQeKi%2FZMFzCNxBuXU2l%2BwU%3D&pass_ticket=RP9J1IEXoAQni4Q4ZAkMBsH%2FHHVmMKVZ6OwtT45KMv%2FuSk14nYqZKYmYnpdQjOun)
-  - Dubbo：
-     - [看完这篇应该就知道Dubbo是干什么的了](https://blog.csdn.net/qq_40126996/article/details/107380042)
-     - [Dubbo超时功能在源码中如何实现](https://blog.csdn.net/qq_40126996/article/details/106397934)
-     - [从源码分析EnableDubbo注解的作用](https://blog.csdn.net/qq_40126996/article/details/105919675)
-## 调优  
+### 分布式组件
+   - [zookeeper的基本知识](https://www.yuque.com/chentangmu/qxrf1r/hoqnve)
+   - [分布式系统中的CAP理论](https://mp.weixin.qq.com/s?__biz=MzI5NTk0MDkwNA==&mid=2247483907&idx=1&sn=13221235bcd83658e4e8a77af5ab5b28&chksm=ec4aa444db3d2d5232aaa03dc767b1ce740cef12e5d8296c5462c7aaf976d9251f67f5687ccd&scene=126&sessionid=1597987955&key=644b115416bee241adae9bd07ffb7d94f9acee21de1a3e24fbcfd265f185c582cb94c101cb32365ac31b64a5c7e0324c7958140b8254eb385f259029bbc410646f1788c374f251ef2a462de04123f22c4d2ef9cd0a645e475ae565b755fe614551475bf9518ae83b92ec6eeeb82ca3ab157e8fa4a957d7bd92c81bf7398dd99c&ascene=1&uin=MzU1MjE3NTAy&devicetype=Windows+10+x64&version=62090529&lang=zh_CN&exportkey=AcQeKi%2FZMFzCNxBuXU2l%2BwU%3D&pass_ticket=RP9J1IEXoAQni4Q4ZAkMBsH%2FHHVmMKVZ6OwtT45KMv%2FuSk14nYqZKYmYnpdQjOun)
+   - [看完这篇应该就知道Dubbo是干什么的了](https://blog.csdn.net/qq_40126996/article/details/107380042)
+   - [Dubbo超时功能在源码中如何实现](https://blog.csdn.net/qq_40126996/article/details/106397934)
+   - [从源码分析EnableDubbo注解的作用](https://blog.csdn.net/qq_40126996/article/details/105919675)
+### 调优  
 
-## JVM：
+### JVM：
    - [看完这篇就明白JVM的基础](https://mp.weixin.qq.com/s?__biz=MzI5NTk0MDkwNA==&mid=2247483895&idx=1&sn=35f4831300458bacd5fc6d16fe6cdc82&chksm=ec4aa7b0db3d2ea6f503e361a3fa3dc1e5b6fc167c1b5cd0acca7f61e1d015139723cb384a60&scene=126&sessionid=1597987955&key=892b62220735b7b91d00b793dd594cdc0e19d81308584f08765295b2f52b2089f5a9d4b0fe0d4ff62ebe335a8fa20ea1c87d14d0a0669c3164f96d11b1538501c873bed73201b7fb7960f7f75e874b55e28421f861f699f21be0973e4f0f4334dcecc726f4bb987f263597ef0b3db4da1f8007f4c99d8ef699226df056df3c63&ascene=1&uin=MzU1MjE3NTAy&devicetype=Windows+10+x64&version=62090529&lang=zh_CN&exportkey=Ae4yUKYOvtJcYIS6HoC4neQ%3D&pass_ticket=RP9J1IEXoAQni4Q4ZAkMBsH%2FHHVmMKVZ6OwtT45KMv%2FuSk14nYqZKYmYnpdQjOun)  
- ## 设计模式
+ ### 设计模式
 
- ## 计算机网络：
-   - 三次握手 [计算机网络知识点概况](https://blog.csdn.net/qq_40126996/article/details/106223672)
-   - 四次挥手
-   - TCP/IP五层模型 
- ## 中间件
+ ### 计算机网络：
+   - [计算机网络知识点概况](https://blog.csdn.net/qq_40126996/article/details/106223672) 
+ ### 中间件
    - Redis：
      - [Redis的底层如何实现](https://blog.csdn.net/qq_40126996/article/details/107249687)
      - [Redis之整数集合底层实现](https://www.yuque.com/chentangmu/ffak1c/boaf6z)
@@ -85,12 +81,13 @@
    - RabbitMQ
      - [一起了解RabbitMQ的各种模式](https://blog.csdn.net/qq_40126996/article/details/104348576)
    - Kafka
- ## 网络通信
+   
+ ### 网络通信
    - [Netty学习一](https://mp.weixin.qq.com/s?__biz=MzI5NTk0MDkwNA==&mid=2247483874&idx=1&sn=6267546a056f62b2bea3631183a537fc&chksm=ec4aa7a5db3d2eb3c1a2f4d50f25f17bbda4c37839163758cef5ccbfa274cd3f9928e8cbf005&scene=126&sessionid=1597987955&key=644b115416bee241d5fc790d5131969bc77adfccd883b655fb9c75ab8c776e15eb70d79ba0b168c3119db762885ac1c1f61d2e2e337b94264c813756c730a6f53bf83edc9c50f98a1b60ac7f294616cbc7244eace68756969814ab5feb27eed21bb87885f981a480be25da4f1685f33edcf04ce56cee1234d09ed2d3d7382f73&ascene=1&uin=MzU1MjE3NTAy&devicetype=Windows+10+x64&version=62090529&lang=zh_CN&exportkey=AeJp3AI4FqnhC4enRx6NGOE%3D&pass_ticket=RP9J1IEXoAQni4Q4ZAkMBsH%2FHHVmMKVZ6OwtT45KMv%2FuSk14nYqZKYmYnpdQjOun)
- ## 分库分表
- ## 操作系统
- ## 闲聊
-  - 个人经历 [二本毕业一年聊聊自己在某厂的外包经历](https://mp.weixin.qq.com/s?__biz=MzI5NTk0MDkwNA==&mid=2247483924&idx=1&sn=6d368e6f495f089a944ad88b28c946e2&chksm=ec4aa453db3d2d4564aeadd97dcd4d63dc07b12a6c26e7a1cfc4f8888a4b63d9fa8ccb1ea305&scene=126&sessionid=1597987955&key=de438a290b06e75a352433a66ad67c731a1256e128d6b775330f8f1e8247fcafc7ad3c24ba1021ef06e22b8fa9621c41a17ee283a13899d703bb92ff3a7e50714f4baa796eae48f01a5d59b15a99cc05208f9ed28312d48fc30010295c1f75f55f7ee176a39645978843f03e9cac5b0839463f5eb87fa349b40e65cbc11935a5&ascene=1&uin=MzU1MjE3NTAy&devicetype=Windows+10+x64&version=62090529&lang=zh_CN&exportkey=AYdbRaHCbglz9Q8eQEeysk8%3D&pass_ticket=RP9J1IEXoAQni4Q4ZAkMBsH%2FHHVmMKVZ6OwtT45KMv%2FuSk14nYqZKYmYnpdQjOun)
+ ### 分库分表
+ ### 操作系统
+ ### 闲聊
+  - [二本毕业一年聊聊自己在某厂的外包经历](https://mp.weixin.qq.com/s?__biz=MzI5NTk0MDkwNA==&mid=2247483924&idx=1&sn=6d368e6f495f089a944ad88b28c946e2&chksm=ec4aa453db3d2d4564aeadd97dcd4d63dc07b12a6c26e7a1cfc4f8888a4b63d9fa8ccb1ea305&scene=126&sessionid=1597987955&key=de438a290b06e75a352433a66ad67c731a1256e128d6b775330f8f1e8247fcafc7ad3c24ba1021ef06e22b8fa9621c41a17ee283a13899d703bb92ff3a7e50714f4baa796eae48f01a5d59b15a99cc05208f9ed28312d48fc30010295c1f75f55f7ee176a39645978843f03e9cac5b0839463f5eb87fa349b40e65cbc11935a5&ascene=1&uin=MzU1MjE3NTAy&devicetype=Windows+10+x64&version=62090529&lang=zh_CN&exportkey=AYdbRaHCbglz9Q8eQEeysk8%3D&pass_ticket=RP9J1IEXoAQni4Q4ZAkMBsH%2FHHVmMKVZ6OwtT45KMv%2FuSk14nYqZKYmYnpdQjOun)
 
 自己整理的后端知识架构图如下：
  ![Image text](https://github.com/linglongchen/Java-knowledge/blob/master/image/%E5%90%8E%E7%AB%AF%E7%9F%A5%E8%AF%86%E6%9E%B6%E6%9E%84.png)
