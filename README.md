@@ -57,11 +57,11 @@
    - [Dubbo超时功能在源码中如何实现](https://blog.csdn.net/qq_40126996/article/details/106397934)
    - [从源码分析EnableDubbo注解的作用](https://blog.csdn.net/qq_40126996/article/details/105919675)
 ### 调优  
-
+   - [正在学习]() 
 ### JVM：
    - [看完这篇就明白JVM的基础](https://mp.weixin.qq.com/s?__biz=MzI5NTk0MDkwNA==&mid=2247483895&idx=1&sn=35f4831300458bacd5fc6d16fe6cdc82&chksm=ec4aa7b0db3d2ea6f503e361a3fa3dc1e5b6fc167c1b5cd0acca7f61e1d015139723cb384a60&scene=126&sessionid=1597987955&key=892b62220735b7b91d00b793dd594cdc0e19d81308584f08765295b2f52b2089f5a9d4b0fe0d4ff62ebe335a8fa20ea1c87d14d0a0669c3164f96d11b1538501c873bed73201b7fb7960f7f75e874b55e28421f861f699f21be0973e4f0f4334dcecc726f4bb987f263597ef0b3db4da1f8007f4c99d8ef699226df056df3c63&ascene=1&uin=MzU1MjE3NTAy&devicetype=Windows+10+x64&version=62090529&lang=zh_CN&exportkey=Ae4yUKYOvtJcYIS6HoC4neQ%3D&pass_ticket=RP9J1IEXoAQni4Q4ZAkMBsH%2FHHVmMKVZ6OwtT45KMv%2FuSk14nYqZKYmYnpdQjOun)  
  ### 设计模式
-
+   - [正在学习]() 
  ### 计算机网络：
    - [计算机网络知识点概况](https://blog.csdn.net/qq_40126996/article/details/106223672) 
  ### 中间件
@@ -81,11 +81,14 @@
    - RabbitMQ
      - [一起了解RabbitMQ的各种模式](https://blog.csdn.net/qq_40126996/article/details/104348576)
    - Kafka
+     - [正在学习]() 
    
  ### 网络通信
    - [Netty学习一](https://mp.weixin.qq.com/s?__biz=MzI5NTk0MDkwNA==&mid=2247483874&idx=1&sn=6267546a056f62b2bea3631183a537fc&chksm=ec4aa7a5db3d2eb3c1a2f4d50f25f17bbda4c37839163758cef5ccbfa274cd3f9928e8cbf005&scene=126&sessionid=1597987955&key=644b115416bee241d5fc790d5131969bc77adfccd883b655fb9c75ab8c776e15eb70d79ba0b168c3119db762885ac1c1f61d2e2e337b94264c813756c730a6f53bf83edc9c50f98a1b60ac7f294616cbc7244eace68756969814ab5feb27eed21bb87885f981a480be25da4f1685f33edcf04ce56cee1234d09ed2d3d7382f73&ascene=1&uin=MzU1MjE3NTAy&devicetype=Windows+10+x64&version=62090529&lang=zh_CN&exportkey=AeJp3AI4FqnhC4enRx6NGOE%3D&pass_ticket=RP9J1IEXoAQni4Q4ZAkMBsH%2FHHVmMKVZ6OwtT45KMv%2FuSk14nYqZKYmYnpdQjOun)
  ### 分库分表
+   - [正在学习]() 
  ### 操作系统
+   - [正在学习]() 
  ### 闲聊
   - [二本毕业一年聊聊自己在某厂的外包经历](https://mp.weixin.qq.com/s?__biz=MzI5NTk0MDkwNA==&mid=2247483924&idx=1&sn=6d368e6f495f089a944ad88b28c946e2&chksm=ec4aa453db3d2d4564aeadd97dcd4d63dc07b12a6c26e7a1cfc4f8888a4b63d9fa8ccb1ea305&scene=126&sessionid=1597987955&key=de438a290b06e75a352433a66ad67c731a1256e128d6b775330f8f1e8247fcafc7ad3c24ba1021ef06e22b8fa9621c41a17ee283a13899d703bb92ff3a7e50714f4baa796eae48f01a5d59b15a99cc05208f9ed28312d48fc30010295c1f75f55f7ee176a39645978843f03e9cac5b0839463f5eb87fa349b40e65cbc11935a5&ascene=1&uin=MzU1MjE3NTAy&devicetype=Windows+10+x64&version=62090529&lang=zh_CN&exportkey=AYdbRaHCbglz9Q8eQEeysk8%3D&pass_ticket=RP9J1IEXoAQni4Q4ZAkMBsH%2FHHVmMKVZ6OwtT45KMv%2FuSk14nYqZKYmYnpdQjOun)
 
