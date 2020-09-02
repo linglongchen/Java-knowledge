@@ -6,7 +6,11 @@
  
  共同学习，共同进步！
 
-
+知识架构图如下：
+ ![Image text](https://github.com/linglongchen/Java-knowledge/blob/master/image/%E5%90%8E%E7%AB%AF%E7%9F%A5%E8%AF%86%E6%9E%B6%E6%9E%84.png)
+ 
+ 
+ 
 ### Spring框架
  - [Spring中IOC知识点介绍](https://mp.weixin.qq.com/s?__biz=MzI5NTk0MDkwNA==&mid=2247483703&idx=1&sn=c409488c95870d367162923075fed2cc&chksm=ec4aa770db3d2e6652c0c77cdf26a37dc6ea2a2486020ab9b632ec82f4bc0fa2c40290ffa396&scene=126&sessionid=1595328353&key=de438a290b06e75a5e8ee474df644893b6e0dcb29e2b34dc49617ea5d5adcbbf6af01f91a947036fe9805bb6b1ffb1a8d31982f7bc4f6f404231a20db9d0d29bb8aa2114159a01452bba955d137607cf&ascene=1&uin=MzU1MjE3NTAy&devicetype=Windows+10+x64&version=62090529&lang=zh_CN&exportkey=AeOFXcRKpXW5Blt9JlAJT2s%3D&pass_ticket=%2FJDJX3%2FxUFIRv8nz2s3qp6eYjByCRxZIquJcbqP%2Bv1Qq3X92dpF8p6Rl6QM1QGL4)
  - [Spring中AOP知识点介绍](https://mp.weixin.qq.com/s?__biz=MzI5NTk0MDkwNA==&mid=2247483666&idx=1&sn=488079b58f2387ee45b18f451eddb648&chksm=ec4aa755db3d2e43531e9a2ba4cc0ce64344c7bf9843dcea1613694db2fdaee4358b36f16b9c&token=200295296&lang=zh_CN#rd)
@@ -92,6 +96,5 @@
  ### 闲聊
   - [二本毕业一年聊聊自己在某厂的外包经历](https://mp.weixin.qq.com/s?__biz=MzI5NTk0MDkwNA==&mid=2247483924&idx=1&sn=6d368e6f495f089a944ad88b28c946e2&chksm=ec4aa453db3d2d4564aeadd97dcd4d63dc07b12a6c26e7a1cfc4f8888a4b63d9fa8ccb1ea305&scene=126&sessionid=1597987955&key=de438a290b06e75a352433a66ad67c731a1256e128d6b775330f8f1e8247fcafc7ad3c24ba1021ef06e22b8fa9621c41a17ee283a13899d703bb92ff3a7e50714f4baa796eae48f01a5d59b15a99cc05208f9ed28312d48fc30010295c1f75f55f7ee176a39645978843f03e9cac5b0839463f5eb87fa349b40e65cbc11935a5&ascene=1&uin=MzU1MjE3NTAy&devicetype=Windows+10+x64&version=62090529&lang=zh_CN&exportkey=AYdbRaHCbglz9Q8eQEeysk8%3D&pass_ticket=RP9J1IEXoAQni4Q4ZAkMBsH%2FHHVmMKVZ6OwtT45KMv%2FuSk14nYqZKYmYnpdQjOun)
 
-自己整理的后端知识架构图如下：
- ![Image text](https://github.com/linglongchen/Java-knowledge/blob/master/image/%E5%90%8E%E7%AB%AF%E7%9F%A5%E8%AF%86%E6%9E%B6%E6%9E%84.png)
+
 
